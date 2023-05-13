@@ -18,7 +18,7 @@ document.querySelectorAll('a.scroll').forEach(link => {
 })
 
 const button = document.querySelector('.header-button');
-const audio = new Audio('../audio/background.mp3');
+const audio = new Audio('audio/background.mp3');
 
 button.addEventListener('click', function() {
       audio.play();
