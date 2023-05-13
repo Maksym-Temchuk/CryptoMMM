@@ -315,17 +315,17 @@ body{
 }
 
 .first-price {
-    background: url("/image/poor-price.jpg") center center no-repeat;
+    background: url("../image/poor-price.jpg") center center no-repeat;
     background-size: cover;
 }
 
 .second-price {
-    background: url("/image/defolt-price.png") center center no-repeat;
+    background: url("../image/defolt-price.png") center center no-repeat;
     background-size: cover;
 }
 
 .third-price {
-    background: url("/image/vip-price.jpg") center center no-repeat;
+    background: url("../image/vip-price.jpg") center center no-repeat;
     background-size: cover;
 }
 
